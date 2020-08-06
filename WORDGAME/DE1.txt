@@ -1,0 +1,680 @@
+Neu
+Gut
+Grob
+Alt
+Hoch
+Klein
+Lang
+Jung
+Spat
+Wichtig
+Fruh
+Kurz
+Schwer
+Richtig
+Schnell
+Leicht
+Schlect
+Falsch
+Teuer
+Langsam
+Niedrig
+Kalt
+Glucklich
+Gesund
+Laut
+Warm
+Billig
+Krank
+Leise
+Mude
+DieKatze
+dasNashorn	
+dasFlusspferd
+dasKrokodil
+dasKaninchen	
+dasKamel	
+dasHühnchen	
+dasHuhn	
+dasHaustier	
+dasEichhörnchen	
+derWolf	
+derWal
+derEsel	
+derElefant	
+derEisbär	
+derDelfin	
+derDachs	
+derBär	
+derAffe	
+dieZiege	
+dieTaube	
+dieSpinne	
+dieSchlange	
+dieSchildkröte	
+derVogel	
+derTiger	
+derSkorpion	
+derSchwan	
+derPinguin	
+derPapagei	
+derLöwe	
+derKrebs	
+derKäfer	
+derIgel	
+derHirsch	
+derHase	
+derHamster	
+derHai	
+derHahn	
+derFuchs	
+derFrosch	
+derFisch	
+dieRatte
+dieQualle	
+dieMaus	
+dieKuh	
+dieKrabbe	
+dieGiraffe	
+dieGans	
+dieFledermaus	
+dieEule	
+dieEnte	
+derAdler	
+dasZebra	
+dasTier	
+dasSchwein	
+dasSchaf	
+dasPferd	
+derHund	
+eins	
+zwei	
+drei	
+vier	
+fünf	
+sechs	
+sieben	
+acht	
+neun	
+zehn	
+elf	
+zwölf	
+dreizehn
+vierzehn	
+fünfzehn	
+sechzehn	
+siebzehn	
+achtzehn	
+neunzehn	
+zwanzig	
+einundzwanzig
+zweiundzwanzig
+dreiundzwanzig
+vierundzwanzig
+fünfundzwanzig
+sechsundzwanzig
+siebenundzwanzig
+achtundzwanzig
+neunundzwanzig
+Dreißig
+Einunddreißig
+zweiunddreißig
+dreiunddreißig
+vierunddreißig
+fünfunddreißig
+sechsunddreißig
+siebenunddreißig
+achtunddreißig
+neununddreißig
+vierzig
+ein­und­vierzig
+zweiundvierzig
+dreiundvierzig
+vierundvierzig
+fünfundvierzig
+sechsundvierzig
+siebenundvierzig
+achtundvierzig
+neunundvierzig
+fünfzig
+einundfünfzig
+zweiundfünfzig
+dreiundfünfzig
+vierundfünfzig
+fünfundfünfzig
+sechsundfünfzig
+siebenundfünfzig
+achtundfünfzig
+neunundfünfzig
+sechzig
+einundsechzig
+zweiundsechzig
+dreiundsechzig
+vierundsechzig
+fünfundsechzig
+sechsundsechzig
+siebenundsechzig
+achtundsechzig
+neunundsechzig
+siebzig
+einundsiebzig
+zweiundsiebzig
+dreiundsiebzig
+vierundsiebzig
+fünfundsiebzig
+sechsundsiebzig
+siebenundsiebzig
+achtundsiebzig
+neunundsiebzig
+Achtzig
+einundachtzig
+zweiundachtzig
+dreiundachtzig
+vierundachtzig
+fünfundachtzig
+sechsundachtzi
+siebenundachtzig
+achtundachtzig
+neunundachtzig
+neunzig
+einundneunzig
+zweiundneunzig
+dreiundneunzig
+vierundneunzig
+fünfundneunzig
+sechsundneunzig
+siebenundneunzig
+achtundneunzig
+neunundneunzig
+hundert
+hunderteins
+hundertzwei
+hundertdrei
+hundertvier
+hundertfünf
+hundertsechs
+hundertsieben
+hundertacht
+hundertneun
+hundertzehn
+zweihundert
+zweihunderteins
+zweihundertzwei
+zweihundertdrei
+zweihundertvier
+zweihundertfünf
+zweihundertsechs
+zweihundertsieben
+zweihundertacht
+zweihundertneun
+zweihundertzehn
+dreihundert
+dreihunderteins
+dreihundertzwei
+dreihundertdrei
+vierhundert
+fünfhundert
+sechshundert
+siebenhundert
+achthundert
+neunhundert
+Tausen
+Weiß
+Rot
+Gelb
+Blau
+Braun
+Grün
+Rosa
+Orange
+Grau
+Violett
+Hell
+Dunkel
+Schwarz
+Türkis
+Beige
+Lila
+Gold
+dieEltern
+derVater
+derSohn
+derBruder
+dieGeschwister
+derGroßvater
+derEnkel
+derNeffe
+derVetter
+derOnkel
+derMann
+dieVerwandte
+dieMutter
+dieTochter
+dieSchwester
+dieGroßeltern
+dieGroßmutter
+dieEnkelin
+dieNichte
+dieKusine
+dieTante
+dieFrau
+Glück
+Hallo
+Liebe
+Lächeln
+Deutscher
+Ja
+Tschüss
+der
+sein
+in
+ein
+zu
+haben
+ich
+Werden
+sie
+von
+mit
+es
+sich
+auch
+auf
+für
+an
+er
+so
+dass
+können
+dies
+als
+Ihr
+wie
+bei
+oder
+wir
+aber
+dann
+man
+da
+sein
+noch
+nach
+was
+also
+aus
+all
+wenn
+nur
+müssen
+sagen
+um
+machen
+kein
+Jahr
+du
+mein
+schon
+vor
+durch
+geben
+mehr
+Andere
+Anderer
+anderes
+viel
+kommen
+jetzt
+sollen
+mir
+wollen
+ganz
+mich
+immer
+gehen
+sehr
+hier
+doch
+bis
+groß
+wieder
+Mal
+zwei
+gut
+wissen
+neu
+sehen
+lassen
+uns
+weil
+unter
+denn
+stehen
+jed
+Beispiel
+Zeit
+Erste
+erster
+erstes
+ihm
+ihn
+wo
+lang
+eigentlich
+damit
+selbst
+unser
+oben
+ drei 
+ wenig 
+ Frau
+ Mensch
+ Kind
+ etwas
+ Tag
+ nun 
+ finden
+ nichts 
+ bleiben
+ sondern 
+ klein 
+ zwischen 
+ alt 
+ gegen 
+ Liegen
+ ohne 
+ nein 
+ heute 
+ weit 
+ heißen 
+ denken
+ eben
+ erst 
+ natürlich 
+ ob 
+ hoch
+ beide 
+ einfach 
+ vielleicht 
+ dort 
+ dabei 
+ einmal 
+ ihnen 
+ welch
+ nehmen 
+ tun 
+ seit 
+ dürfen
+ glauben 
+ halten
+ nennen 
+ Land 
+ letz
+ gleich 
+ solch
+ dazu 
+ mögen
+ Frage
+ gar 
+ zeigen 
+ führen 
+ möglich 
+ sprechen 
+ während
+ Haus
+ Fall
+ eigen 
+ bringen
+ Leute
+ schön 
+ einige 
+ bereits 
+ Arbeit
+ leben
+ fahren 
+ meinen 
+ spät
+ etwa 
+ wer 
+ Prozent
+ fragen 
+ gerade
+ wichtig
+ zwar 
+ Hand
+ wirklich
+ kennen 
+ weitere
+ genau 
+ jung
+ gelten
+ Stadt
+ Herr
+ Teil
+ Problem
+ Welt
+ jedoch 
+ stellen
+ darauf 
+ bisschen 
+bissel 
+ vier 
+ nie 
+ spielen 
+ denen 
+ Recht
+ arbeiten 
+ Brauchen
+Folgen
+Lernen
+Ende
+kurz 
+ Million
+ Stark
+Schule
+Woche
+Bestehen
+Richtig
+Dich
+dafür 
+Sowie
+Oft
+Vater
+Seite
+Verschieden
+Halt
+Leben
+Allerdings
+Verstehen
+Fast
+ Wohl
+ dein 
+bestimmt 
+Mutter
+setzen 
+Überhaupt
+Grund
+Besser
+Dir
+schnell 
+bekommen 
+ gerne 
+ Auge
+ sicher 
+ davon 
+ beginnen 
+ erzählen 
+ versuchen 
+ besonders 
+ Wort
+ neben 
+ schreiben 
+ warum 
+ nächst 
+ laufen 
+ Geld
+ erklären 
+ Sache
+ Art
+ politisch 
+ entsprechen 
+ klar 
+ schwer 
+ Bereich
+ alleine 
+ kaum 
+ Weg
+ sitzen 
+ Stunde
+ einzeln 
+ deshalb 
+ deren 
+ ziehen 
+ na 
+ beziehungsweise 
+ sogar 
+ Name
+ damals 
+ fünf 
+ Geschichte
+ wegen 
+ Gesellschaft
+ scheinen
+ darüber
+ fallen 
+ Kopf
+ gehören
+ entstehen
+ bekannt 
+ erhalten
+ Paar
+ leicht 
+ Möglichkeit
+ treffen
+ hinter
+ sonst 
+ daran 
+ Unternehmen
+ weiter 
+ suchen 
+ Bild
+ Buch
+ legen 
+ Wasser
+ Stelle
+ vor•stellen 
+Springflut
+Villian
+Erde
+Asteroiden
+Klon
+Sog
+Träne
+Herzlos
+Sirene
+Schicksal
+Krone
+Chemiker
+Flüchtling
+Bote
+Thron
+Sterblich
+Motor
+Zauberin
+Leidenschaft
+Entrückung
+Quälen
+Schnitzen
+Jäger
+Lehrer
+Geister
+Mord
+Feuerwerk
+Unabhängigkeit
+Schule
+Dystopisch
+Erlösung
+Identität
+Depression
+Fangirl
+Charaktere
+Halbgott
+Zauberer
+Hexen
+Wasser
+Feuer
+Wind
+Blitz
+Gastgeber
+Tiere
+Monster
+Käse
+Dorn
+Scharlach
+Palast
+Diesese
+Cyborg
+Surfen
+Star
+Computer
+Funkeln
+Malerei
+Krebs
+Fehler
+Gebrechen
+Hamiliton
+Wirklichkeit
+Steine
+Unfälle
+Dämmerung
+Vampir
+Werwolf
+Elf
+Städte
+Hollywood
+Gefroren
+Zeit
+Hunde
+Mitternacht
+Finsternis
+Mondlicht
+Freunde
+Haie
+Bleistift
+Regenschirm
+Blitz
+Super-Mädchen
+Eis
+Abweichend
+Nachkommenschaft
+Schatten
+Parasit
+Schildkröte
+entstehen
+begeistert
+Ritterlichkeit
+yatch
+Pferd
+eingeben
+regnet
+gehen
+Orange
+elastisch
+Computer
+Waschbär
+Asche
+Asche
+Flasche
+Telefon
+Essen
+Wörterbuch
+Fernsehen
+Windows
+Tabelle
+Animation
+Streamer
+Buch
+Renegat
+Mart
+Zeit
+Elefant
